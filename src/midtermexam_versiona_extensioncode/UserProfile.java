@@ -60,7 +60,10 @@ public class UserProfile
     public void setGenre(String genre) {
         this.genre = genre;
     }
-    
+
+
+    //added comment at the end for fetch and merge.
+    //added one more comment.
     
     
     
